@@ -92,6 +92,6 @@ print("this message is from test");
 
 ## 插入图片
 
-![pingmujietu](https://s2.loli.net/2022/03/15/dMSXD7fRAY9VCFU.png "桌面壁纸截图”)
+![pingmujietu](https://s2.loli.net/2022/03/15/dMSXD7fRAY9VCFU.png//pingmujietu.png "桌面壁纸截图”)
 
 
