@@ -55,7 +55,42 @@ github是全球最大的项目托管网站<br>大量开源工程托管在GitHub�
 ## 表格效果
 
 游戏名|价格|排行
---|：--：|--：
+--|:--:|--:
 csgo|567|1
 lol|89|2
+
+## 插入代码片段
+
+```c
+//c语言片段
+#include <stdio.h>
+   int main()
+   {
+	printf("testing code...\n");
+	return 0;
+   }
+
+
+```
+
+```bash
+   sudo su
+   echo "输出字符段“
+```
+
+```python
+import os
+def test():
+print("this message is from test");
+```
+
+## 超链接
+[github](https://github.com "跳转到GitHub”)
+[bilibili](https://www.bilibili.com "跳转到b站“)
+
+
+## 插入图片
+
+![pingmujietu](D://0524//gittextfileD://0524//gittextfile//pingmujietu.png "桌面壁纸截图”)
+
 
